@@ -10,6 +10,6 @@ Cluster with GMM(Apply the Gaussian Mixture Model Algorithm)
 Fractal Clustering
 ### HW4 <br>
 Classification, Amalgamation , Confusion
-### HW5 <br>
+### HW6 <br>
 End to end dependencies: Changing Data Distribution and seeing impact on Model Metrics and Visualizing Outcomes
 
