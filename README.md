@@ -18,4 +18,6 @@ Regression, MLP and Latent Manifolds
 NLP POS Substitutions and Tones for Poets
 ### HW9 <br>
  Obtaining Adequate Gold Std and Sample Short Text to use sentiments, topics, POS and KG's to Analyze a Distribution of Acceptable (Gold Std) Text (NLU) and Comparing Samples with the Gold Standard 
+### HW10 <br>
+Fine tune a model that represents yorr poet.
 
