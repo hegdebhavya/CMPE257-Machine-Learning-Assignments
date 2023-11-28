@@ -25,4 +25,6 @@ NLP POS Substitutions and Tones for Poets
 Fine tune a model that represents yorr poet.
 #### HW11 <br>
 RAG Using weaviate
+#### HW12 <br>
+Mining News Articles and Assembling a Knowledge Graph
 
