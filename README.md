@@ -1,4 +1,6 @@
 # CMPE257-Machine-learning-Assignments
+## HW1 to HW7
+## Dataset used(Housing pice dataset scraped from redfin)
 ### Business Narrative
 Our mission is to provide valuable insights and guidance to prospective investors and homebuyers, empowering them to make informed decisions about investing in real estate. We understand that real estate is a significant financial commitment, and it’s crucial to assess its viability thoroughly. Through our platform, we offer a comprehensive suite of tools, data, and expertise to help individuals navigate the complex world of real estate investments.
 
@@ -14,6 +16,7 @@ Classification, Amalgamation , Confusion
 End to end dependencies: Changing Data Distribution and seeing impact on Model Metrics and Visualizing Outcomes
 ### HW7 <br>
 Regression, MLP and Latent Manifolds 
+## 
 ### HW8 <br>
 NLP POS Substitutions and Tones for Poets
 ### HW9 <br>
